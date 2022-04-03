@@ -62,7 +62,7 @@ public class HanabiGame extends Game {
                     }
                     System.out.printf("The suggestion is: %s%n", op);
                 }
-//                op = state.readOperator();
+                op = state.readOperator();
             }
             state = state.apply(op);
             state.changePlayer();
