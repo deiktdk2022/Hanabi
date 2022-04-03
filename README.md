@@ -1,4 +1,4 @@
-# Cooperative Games
+# TDK-2022: Kooperatív játékok információhiányos környezetben
 
 ## URLs
 
